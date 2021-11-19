@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/home-preview/static/css/main.db4a4207.chunk.css",
-    "main.js": "/home-preview/static/js/main.36fe62d0.chunk.js",
-    "main.js.map": "/home-preview/static/js/main.36fe62d0.chunk.js.map",
-    "runtime-main.js": "/home-preview/static/js/runtime-main.4107d5d3.js",
-    "runtime-main.js.map": "/home-preview/static/js/runtime-main.4107d5d3.js.map",
-    "static/js/2.60b782ee.chunk.js": "/home-preview/static/js/2.60b782ee.chunk.js",
-    "static/js/2.60b782ee.chunk.js.map": "/home-preview/static/js/2.60b782ee.chunk.js.map",
-    "index.html": "/home-preview/index.html",
-    "static/css/main.db4a4207.chunk.css.map": "/home-preview/static/css/main.db4a4207.chunk.css.map",
-    "static/js/2.60b782ee.chunk.js.LICENSE.txt": "/home-preview/static/js/2.60b782ee.chunk.js.LICENSE.txt",
-    "static/media/Background.9e682f80.jpg": "/home-preview/static/media/Background.9e682f80.jpg",
-    "static/media/index.css": "/home-preview/static/media/Frutiger Next.cd68fc3d.ttf"
+    "main.css": "/home-drawingtool/static/css/main.cfe4227e.chunk.css",
+    "main.js": "/home-drawingtool/static/js/main.36fe62d0.chunk.js",
+    "main.js.map": "/home-drawingtool/static/js/main.36fe62d0.chunk.js.map",
+    "runtime-main.js": "/home-drawingtool/static/js/runtime-main.c05168ef.js",
+    "runtime-main.js.map": "/home-drawingtool/static/js/runtime-main.c05168ef.js.map",
+    "static/js/2.2da7eb59.chunk.js": "/home-drawingtool/static/js/2.2da7eb59.chunk.js",
+    "static/js/2.2da7eb59.chunk.js.map": "/home-drawingtool/static/js/2.2da7eb59.chunk.js.map",
+    "index.html": "/home-drawingtool/index.html",
+    "static/css/main.cfe4227e.chunk.css.map": "/home-drawingtool/static/css/main.cfe4227e.chunk.css.map",
+    "static/js/2.2da7eb59.chunk.js.LICENSE.txt": "/home-drawingtool/static/js/2.2da7eb59.chunk.js.LICENSE.txt",
+    "static/media/Background.9e682f80.jpg": "/home-drawingtool/static/media/Background.9e682f80.jpg",
+    "static/media/index.css": "/home-drawingtool/static/media/Frutiger Next.cd68fc3d.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4107d5d3.js",
-    "static/js/2.60b782ee.chunk.js",
-    "static/css/main.db4a4207.chunk.css",
+    "static/js/runtime-main.c05168ef.js",
+    "static/js/2.2da7eb59.chunk.js",
+    "static/css/main.cfe4227e.chunk.css",
     "static/js/main.36fe62d0.chunk.js"
   ]
 }
